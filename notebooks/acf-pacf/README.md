@@ -84,5 +84,3 @@ For example:
 - If PACF tails off and ACF cuts off after lag 1 → likely MA(1)
 
 ---
-
-This explanation serves as a conceptual guide for using ACF and PACF in time series analysis and ARIMA model building.
